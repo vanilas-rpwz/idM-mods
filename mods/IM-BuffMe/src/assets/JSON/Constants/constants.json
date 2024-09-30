@@ -1,0 +1,14 @@
+[
+    {
+        "id": "MONEY_MODMENU_MULT",
+        "text": "Increase Money Multiplier by (%)"
+    },
+    {
+        "id": "FAN_MODMENU_MULT",
+        "text": "Increase Fan Multiplier by (%)"
+    },
+    {
+        "id": "STAMINA_USAGE_MODMENU_MULT",
+        "text": "Decrease Stamina Usage Multiplier by (%)"
+    }
+]

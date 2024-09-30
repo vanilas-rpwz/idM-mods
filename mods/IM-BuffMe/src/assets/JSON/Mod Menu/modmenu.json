@@ -1,0 +1,29 @@
+[
+	{
+		"type": "slider",
+		"varID": "Money_Multiplier",
+		"labelID": "MONEY_MODMENU_MULT",
+		"minValue": 100,
+		"maxValue": 1000,
+		"defaultValue": 200,
+		"ignore": false
+	},
+	{
+		"type": "slider",
+		"varID": "Fan_Multiplier",
+		"labelID": "FAN_MODMENU_MULT",
+		"minValue": 100,
+		"maxValue": 1000,
+		"defaultValue": 200,
+		"ignore": false
+	},
+	{
+		"type": "slider",
+		"varID": "Stamina_Usage_Multiplier",
+		"labelID": "STAMINA_USAGE_MODMENU_MULT",
+		"minValue": 0,
+		"maxValue": 100,
+		"defaultValue": 50,
+		"ignore": false
+	}
+]

@@ -1,0 +1,11 @@
+[h1]REQUIRES: IM-HarmonyIntegration[/h1]
+Download IM-HarmonyIntegration here: [url=https://github.com/ui3TD/IM-HarmonyIntegration]GitHub Link[/url]
+
+This mod is straightforward to allows you to multiply positive money and fans earned from the game. It also reduces girl stamina usage during activities. You can change the multiplier values in ModMenus.
+
+Money values: 1x - 10x (2x default)
+Fans values: 1x - 10x (2x default)
+Stamina usage: 0x - 1x (.5x default)
+
+This is my first mod and my first time developing a mod.
+A big thank you to Tel [url=https://github.com/ui3TD/IM-FastForward] for creating the guideline for developing mods with Harmony and creating the integration [url=https://github.com/ui3TD/IM-HarmonyIntegration]
